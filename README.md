@@ -1,2 +1,3 @@
 # dormitory-rental-system
-Java
+
+It is a dormitory rental project using Java language and is pure coding.
